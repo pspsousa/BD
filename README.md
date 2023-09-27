@@ -1,8 +1,8 @@
-<h1 align='center'>Criando um Banco de dados para um Hospital</h1>
+<h1 align='center'>Banco de dados para um Hospital</h1>
 
 <h2>Analise a seguinte descrição e extraia dela os requisitos para o banco de dados:</h2>
 
-<h3>🔹Parte 1 - Diagrama Entidade Relacionamento</h3>
+<h2>🔹Parte 1 - Diagrama Entidade Relacionamento</h2>
 <p>
 O hospital necessita de um sistema para sua área clínica que ajude a controlar consultas realizadas. Os médicos podem ser generalistas, especialistas ou residentes e têm seus dados pessoais cadastrados em planilhas digitais. Cada médico pode ter uma ou mais especialidades, que podem ser pediatria, clínica geral, gastroenterologia e dermatologia. Alguns registros antigos ainda estão em formulário de papel, mas será necessário incluir esses dados no novo sistema.
 
