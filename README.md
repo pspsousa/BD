@@ -7,7 +7,7 @@
 
 </p>
 <br>
-<img src='DiagramaER-pt1.png'/>
+<img src='Diagrama1.png'/>
 <br>
 <h2> Parte 2 - Diagrama Entidade Relacionamento </h2>
 <p>
