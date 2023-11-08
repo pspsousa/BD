@@ -14,7 +14,7 @@
 
 </p>
 <br>
-<img src='DiagramaER-pt2.png'/>
+<img src='diagrama2.png'/>
 <br>
 <h2> Parte 3 - Alimentando o banco de dados </h2>
 <p> 
