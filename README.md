@@ -4,14 +4,14 @@
 
 <h2> Parte 1 - Diagrama Entidade Relacionamento </h2>
 <p>
-
+Diagrama criado usando Acess
 </p>
 <br>
 <img src='Diagrama1.png'/>
 <br>
 <h2> Parte 2 - Diagrama Entidade Relacionamento </h2>
 <p>
-
+Diagrama criado usando Acess
 </p>
 <br>
 <img src='diagrama2.png'/>
